@@ -4,4 +4,4 @@ Idk.
 
 ## What "JustInk-Soul" mean?
 
-Just ink | (and) soul.
+Just ink (and) soul.
